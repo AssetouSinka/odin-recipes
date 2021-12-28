@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first web development project ever. I am sure the content is not going to be high quality but I am confident on the fact that I got better,but for now I am going to enjoy the journey.
